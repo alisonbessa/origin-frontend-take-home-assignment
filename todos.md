@@ -1,12 +1,10 @@
 ## Features
 
 - ORI-01 - Add basic structure
-    - [ ]  Create folders structure
-    - [ ]  Create global layout
+    - [x]  Create folders structure
+    - [x]  Create global styles
     - [x]  Add Icons
-    - [ ]  Add font family
-    - [ ]  Create Saving Goal Card
-        - [ ]  use goalTitle and goalIcon as props
+    - [x]  Add font family
 
 - ORI-02 - Create Header Component
     - [ ]  Create folders structure
