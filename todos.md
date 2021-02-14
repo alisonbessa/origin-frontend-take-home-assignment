@@ -3,7 +3,7 @@
 - ORI-01 - Add basic structure
     - [ ]  Create folders structure
     - [ ]  Create global layout
-    - [ ]  Add Icons
+    - [x]  Add Icons
     - [ ]  Add font family
     - [ ]  Create Saving Goal Card
         - [ ]  use goalTitle and goalIcon as props
