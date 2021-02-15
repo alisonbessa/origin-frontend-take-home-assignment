@@ -7,15 +7,10 @@
     - [x]  Add font family
 
 - ORI-02 - Create Header Component
-    - [ ]  Create folders structure
-    - [ ]  Create global layout
-    - [ ]  Add Icons
-    - [ ]  Add font family
-    - [ ]  Create Saving Goal Card
-        - [ ]  use goalTitle and goalIcon as props
-    - [ ]  Create Header component
-    - [ ]  Adjust responsive layout
-    - [ ]  Add unit test
+    - [x]  Create Saving Goal Component
+    - [x]  Create Header component
+    - [x]  Adjust responsive layout
+    - [x]  Add unit test
 
 - ORI-03 - Create MainCard Component
     - [ ]  Create Card component
@@ -24,6 +19,7 @@
     - [ ]  Adjust responsive layout
 
 - ORI-04 - Create GoalHeader Component
+        - [ ]  use goalTitle and goalIcon as props on SavingGoal component;
     - [ ]  Add props: icon and title
     - [ ]  Create main page
     - [ ]  Create Header component
