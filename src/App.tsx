@@ -1,12 +1,13 @@
 import * as React from 'react';
 
 import { GlobalStyles } from './styles/globalStyles';
+import SavingGoal from './pages/SavingGoal';
 
 const App: React.FunctionComponent = () => {
   return (
     <>
       <GlobalStyles />
-      <div>Origin Frontend Take Home</div>
+      <SavingGoal />
     </>
   );
 };
