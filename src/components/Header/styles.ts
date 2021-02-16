@@ -8,14 +8,15 @@ export const Container = styled.header`
   padding-left: 16px;
   background-color: #ffffff;
   img {
-    height: 26px;
+    width: 65px;
+    margin-top: 8px;
   }
 
   @media only screen and (min-width: 768px) {
     height: 79px;
     padding-left: 37px;
     img {
-      height: 38px;
+      width: 95px;
     }
   }
 `;
