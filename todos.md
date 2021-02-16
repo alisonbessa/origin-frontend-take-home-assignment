@@ -13,10 +13,9 @@
     - [x]  Add unit test
 
 - ORI-03 - Create MainCard Component
-    - [ ]  Create Card component
-    - [ ]  Add title over the card
-    - [ ]  Create input subcard and button
-    - [ ]  Adjust responsive layout
+    - [x]  Create Card component
+    - [x]  Add title over the card
+    - [x]  Adjust responsive layout
 
 - ORI-04 - Create GoalHeader Component
         - [ ]  use goalTitle and goalIcon as props on SavingGoal component;
@@ -47,4 +46,5 @@
     - [ ]  Create function to calculate monthly amount
     - [ ]  Display all info
     - [ ]  Adjust responsive layout
+    - [ ]  Create input subcard and button
     - [ ]  Add unit tests
