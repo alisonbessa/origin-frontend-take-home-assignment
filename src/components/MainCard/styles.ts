@@ -50,6 +50,6 @@ export const CardBody = styled.div`
     border: 1px solid #e1e8ed;
     border-radius: 8px;
     box-shadow: 0px 1px 4px rgba(150, 164, 176, 0.1);
-    padding: 40px 40px 0;
+    padding: 39px 40px 0 39px;
   }
 `;

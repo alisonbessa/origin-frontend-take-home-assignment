@@ -18,12 +18,10 @@
     - [x]  Adjust responsive layout
 
 - ORI-04 - Create GoalHeader Component
-        - [ ]  use goalTitle and goalIcon as props on SavingGoal component;
-    - [ ]  Add props: icon and title
-    - [ ]  Create main page
-    - [ ]  Create Header component
-    - [ ]  Adjust responsive layout
-    - [ ]  Add unit tests
+    - [x]  use goalTitle and goalIcon as props on SavingGoal component;
+    - [x]  Add props: icon and title
+    - [x]  Adjust responsive layout
+    - [x]  Add unit tests
 
 - ORI-05 - Create TotalAmount Component
     - [ ]  Title + Input
