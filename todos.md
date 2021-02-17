@@ -24,9 +24,9 @@
     - [x]  Add unit tests
 
 - ORI-05 - Create TotalAmount Component
-    - [ ]  Title + Input
-    - [ ]  Format input
-    - [ ]  Add state on parent component (totalAmount)
+    - [x]  Title + Input
+    - [x]  Format input
+    - [x]  Add state on main page component
     - [ ]  Add unit tests
 
 - ORI-06 - Create ReachBy Component
@@ -46,3 +46,6 @@
     - [ ]  Adjust responsive layout
     - [ ]  Create input subcard and button
     - [ ]  Add unit tests
+
+- ORI-08 - Improve if possible
+    - [ ]  Remove lib and do the necessary logic to totalAmount input
