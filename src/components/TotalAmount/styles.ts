@@ -19,12 +19,16 @@ export const Container = styled.div`
   input[type='number'] {
     -moz-appearance: textfield;
   }
+
+  @media only screen and (min-width: 600px) {
+    width: 232px;
+  }
 `;
 
 export const InputContainer = styled.div`
   display: flex;
   flex-wrap: nowrap;
-  margin-top: 4px;
+  margin-top: 5px;
   height: 56px;
   border: 1px solid #e1e8ed;
   border-radius: 4px;
