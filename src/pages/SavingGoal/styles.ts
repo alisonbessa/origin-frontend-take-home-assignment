@@ -96,10 +96,19 @@ export const SubmitButton = styled.button`
   left: 50%;
   transform: translate(-50%);
   background: #1b31a8;
+  border: none;
   border-radius: 32px;
   color: #fff;
   font-weight: 600;
   font-size: 18px;
+
+  :hover {
+    background: #0b2188;
+  }
+
+  :active {
+    background: #2b51b8;
+  }
 
   @media only screen and (min-width: 600px) {
     width: 400px;
