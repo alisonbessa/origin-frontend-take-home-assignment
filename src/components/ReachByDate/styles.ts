@@ -65,7 +65,7 @@ export const Button = css`
   color: #657786;
   border: none;
   border-right: 1px solid #e1e8ed;
-  border-radius: 4px 0 0 4px;
+  border-radius: 3px 0 0 3px;
   :hover {
     background-color: #d1d8dd;
   }

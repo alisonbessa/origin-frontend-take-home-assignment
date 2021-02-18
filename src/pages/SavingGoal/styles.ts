@@ -19,7 +19,7 @@ export const ResultsCard = styled.div`
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 136px;
+  height: 135px;
   margin-top: 30px;
   background: #ffffff;
   border: 1px solid #e1e8ed;
@@ -81,6 +81,7 @@ export const Summary = styled.div`
   font-size: 12px;
   line-height: 16px;
   color: #1c1e1f;
+  border-radius: 0 0 3px 3px;
 
   @media only screen and (min-width: 600px) {
     padding: 4px 32px 0;
