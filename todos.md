@@ -46,6 +46,3 @@
     - [x]  Adjust responsive layout
     - [x]  Create input subcard and button
     - [ ]  Add unit tests
-
-- ORI-08 - Improve if possible
-    - [ ]  Remove lib and do the necessary logic to totalAmount input
