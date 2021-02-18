@@ -30,21 +30,21 @@
     - [ ]  Add unit tests
 
 - ORI-06 - Create ReachBy Component
-    - [ ]  Title + Input (value={reachByDate})
-    - [ ]  Format input
-    - [ ]  Add functions to set term date (termInMonths)
-        - [ ]  by click
-        - [ ]  by keyboard
-    - [ ]  Calculate term in months
-    - [ ]  Create state to keep this value in parent component
+    - [x]  Title + Input (value={reachByDate})
+    - [x]  Format input
+    - [x]  Add functions to set term date (termInMonths)
+        - [x]  by click
+        - [x]  by keyboard
+    - [x]  Calculate term in months
+    - [x]  Create state to keep this value in parent component
     - [ ]  Add unit tests
 
 - ORI-07 - Create SummaryCard Component
-    - [ ]  Props: totalAmount, termInMonths, reachByDate
-    - [ ]  Create function to calculate monthly amount
-    - [ ]  Display all info
-    - [ ]  Adjust responsive layout
-    - [ ]  Create input subcard and button
+    - [x]  Props: totalAmount, termInMonths, reachByDate
+    - [x]  Create function to calculate monthly amount
+    - [x]  Display all info
+    - [x]  Adjust responsive layout
+    - [x]  Create input subcard and button
     - [ ]  Add unit tests
 
 - ORI-08 - Improve if possible

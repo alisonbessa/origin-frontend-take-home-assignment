@@ -13,7 +13,7 @@ export const Container = styled.div`
   max-width: 560px;
   padding-top: 23px;
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 600px) {
     padding-top: 54px;
   }
 `;
@@ -28,7 +28,7 @@ export const CardTitle = styled.div`
     font-weight: 600;
   }
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 600px) {
     line-height: 32px;
     font-size: 24px;
   }
@@ -44,7 +44,7 @@ export const CardBody = styled.div`
   background-color: #fff;
   padding: 28px 24px 0;
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 600px) {
     margin-top: 40px;
     height: 600px;
     border: 1px solid #e1e8ed;

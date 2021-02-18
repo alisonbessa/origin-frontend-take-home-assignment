@@ -12,7 +12,7 @@ export const Container = styled.header`
     margin-top: 8px;
   }
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 600px) {
     height: 79px;
     padding-left: 37px;
     img {
